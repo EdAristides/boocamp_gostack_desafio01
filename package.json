@@ -5,7 +5,7 @@
   "repository": "https://github.com/EdAristides/boocamp_gostack_desafio01.git",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
